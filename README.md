@@ -13,6 +13,12 @@ Spam emails disrupt communication and pose security risks. This project implemen
 
 ---
 
+## 🌐 **Access the Deployed Application**  
+Test the project online using the deployed application:  
+👉 **[Spam Mail Classifier Application](https://p3-spam-mail-classification-by-nlp-and-ml-y59vavcjlgbznpssgkwy.streamlit.app/)**  
+
+---
+
 ## 🛠️ **Technologies Used**  
 - **Programming Language:** Python  
 - **Frameworks/Libraries:**  
