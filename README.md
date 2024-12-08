@@ -37,5 +37,5 @@ Spam emails disrupt communication and pose security risks. This project implemen
 
 ### **Step 1: Clone the Repository**  
 ```bash
-git clone 
-cd P3-Spam-Mail-Classification
+git clone https://github.com/ajaycharan50/P3-Spam-Mail-Classification-by-NLP-and-ML.git
+cd P3-Spam-Mail-Classification-by-NLP-and-ML
