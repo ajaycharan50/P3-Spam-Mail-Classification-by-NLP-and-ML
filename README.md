@@ -39,3 +39,17 @@ Spam emails disrupt communication and pose security risks. This project implemen
 ```bash
 git clone https://github.com/ajaycharan50/P3-Spam-Mail-Classification-by-NLP-and-ML.git
 cd P3-Spam-Mail-Classification-by-NLP-and-ML
+
+### **Step 2: Install Dependencies
+Ensure Python 3.8 or higher is installed, then run:
+
+bash
+Copy code
+pip install -r requirements.txt
+
+### **Step 3: Run the Streamlit Application Locally
+bash
+Copy code
+streamlit run spamDetector.py
+
+## can directly access the deployed app or run it locally!
